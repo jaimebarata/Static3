@@ -9,6 +9,7 @@ namespace Static3
 			string temp = "";
 			Console.WriteLine("Escreva a temperatura e a escala(Celsius/Fahrenheit): ");
 			temp = Console.ReadLine();
+			a
 		}
 	}
 }
